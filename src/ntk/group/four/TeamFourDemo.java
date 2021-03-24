@@ -88,8 +88,8 @@ public class TeamFourDemo {
 		
 		
 		for(String c: countries) {
-			if (c.contains(countryName)) {
-				countryName = c;
+			if (c.contains(str)) {
+				countryName = "Our Selected country is: " + c;
 			}
 		}
 
