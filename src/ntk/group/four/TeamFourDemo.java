@@ -12,6 +12,7 @@ public class TeamFourDemo {
 		
 		
 		System.out.println("We are Team four ");
+		System.out.println("Hi team four");
 	}
 
 }
