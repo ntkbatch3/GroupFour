@@ -7,18 +7,29 @@ public class TeamFourDemo {
 		
 		
 		System.out.println("Hello Everyone");
-		System.out.println("team four");
 	
 		
 		
 		System.out.println("We are Team four ");
-		System.out.println("Hi team four");
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 	
-	public static void todo() {
-		System.out.println("Follow the process");
+	
+	public static void statesInUSA() {
+		 
+		String str = "New York";
+		String str1 = "Texas";
+		String str2 = "Connecticut";
 		
-		System.out.println("Where is Amanda we need break");
 	}
+	
+	
 
 }
