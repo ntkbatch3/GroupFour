@@ -8,31 +8,11 @@ public class TeamFourDemo {
 		
 		System.out.println("Hello Everyone");
 		
+		
 		System.out.println("Good morning Group4");
 		
 	
 		
-		
-		System.out.println("We are Team four ");
-		
-		
-		System.out.println("Team Four Rules");
-		
-		
-		
-		
-		
 	}
-	
-	
-	public static void statesInUSA() {
-		 
-		String str = "New York";
-		String str1 = "Texas";
-		String str2 = "Connecticut";
-		
-	}
-	
-	
 
 }
