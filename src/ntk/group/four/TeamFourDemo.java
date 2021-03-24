@@ -20,7 +20,7 @@ public class TeamFourDemo {
 		
 		
 		statesInUSA();
-		
+		gitHubSteps();
 	}
 	
 	
@@ -37,6 +37,16 @@ public class TeamFourDemo {
 		
 		System.out.println("I love Git Hub");
 		
+	}
+	
+	public static void gitHubSteps() {
+		
+		System.out.println("Commit, if it's new project");
+		System.out.println("Stash, if you make changes");
+		System.out.println("Pull, to get latest update code");
+		System.out.println("Stash again to bring back your code");
+		System.out.println("Commit then click on commit and push");
+		System.out.println("Push Branch Master");
 	}
 
 }
