@@ -9,9 +9,31 @@ public class TeamFourDemo {
 		System.out.println("Hello Everyone");
 		
 		
-		System.out.println("Good morning Group4");
+		System.out.println("We are Team four ");
 		
+		
+		
+		
+
+		
+		
+		statesInUSA();
+		
+	}
 	
+	
+	public static void statesInUSA() {
+		 
+		String str = "New York";
+		String str1 = "Texas";
+		String str2 = "Connecticut";
+		
+		
+		System.out.println(str);
+		System.out.println(str1);
+		System.out.println(str2);
+		
+		System.out.println("I love Git Hub");
 		
 	}
 
