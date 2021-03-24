@@ -14,5 +14,9 @@ public class TeamFourDemo {
 	
 		
 	}
+	public static void printText(String message) {
+		System.out.println(message);
+		
+	}
 
 }
