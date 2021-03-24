@@ -38,6 +38,8 @@ public class TeamFourDemo {
 		System.out.println(str2);
 		
 		System.out.println("I love Git Hub");
+		
+		swapNumbers(5, 7);
 
 	}
 
@@ -106,4 +108,14 @@ public class TeamFourDemo {
 		System.out.println("Push Branch Master");
 	}
 
+	public static void swapNumbers(int numOne, int numTwo) {
+				
+		numOne = numOne +numTwo;
+		numTwo = numOne-numTwo;
+		numOne = numOne -numTwo;
+		
+		System.out.println(numOne + " : " + numTwo);
+		
+		
+	}
 }
